@@ -14,9 +14,7 @@ Melodot is designed as a data availability layer for GB-level data throughput, f
 
 Melodot is actively under development; modules and interfaces are subject to significant changes. More details can be found in the [documentation](https://docs.melodot.io).
 
-<div align="center">
-    <img src="https://github.com/ZeroDAO/www.ourspace.network/blob/main/src/assets/images/w3f.svg" width="500">
-</div>
+**We are currently developing a DHT-based sampling network, and significant changes to Melodot are expected.**
 
 ## 2. Building
 
